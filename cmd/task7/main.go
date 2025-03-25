@@ -11,7 +11,6 @@ func main() {
 	count := 3
 	wg.Add(count)
 	for i := range count {
-		i := i
 		go func(v int) {
 			defer wg.Done()
 			ch <- v * v

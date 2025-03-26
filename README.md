@@ -1,2 +1,2 @@
-# SkillsRockHW2
-SkillsRockHW2
+# SkillsRock home work №2
+
